@@ -1,0 +1,4 @@
+# QUESTION-->WAP TO PRINT REVERSED STRING IF FIRST CHARACTER AND LAST CHARACTER IN THE STRING ARE DIFFERENT
+st=input("Enter string:")
+if st[0]!=st[-1]:
+  print(st[::-1])
