@@ -1,9 +1,9 @@
 QUESTION-->WAP TO PERFORM ARITHMETIC OPERATION ON TWO INTEGER NUMBERS
 
 ALGORITHM-->
-step1:To get two input values as integer from user
-step2:And to perform arithemetic operations using the numbers
-step3:After the operation using print statement to display it.
+#step1:To get two input values as integer from user
+#step2:And to perform arithemetic operations using the numbers
+#step3:After the operation using print statement to display it.
 
 PROGRAM-->
 num1=int(input("Enter number 1:"))
